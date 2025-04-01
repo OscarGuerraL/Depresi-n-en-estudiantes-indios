@@ -1,9 +1,6 @@
 # Depresi-n-en-estudiantes-indios
-Trabajo final de Samsung Innovation Campus 2024
-## Depresi-n-en-estudiantes-indios
-Trabajo final de Samsung Innovation Campus 2024
 # PROYECTO FINAL "Depresión en Estudiantes De La India"
-
+Trabajo final de Samsung Innovation Campus 2024
 
 
 En este proyecto trabajamos con datos sobre la depresión en estudiantes indios, para poder obtener datos que nos ayudarán a poder auxiliarlos y probablemente reducir la tasa de suicidios, con esto se abre una puerta a proyectos futuros en diferentes países.
