@@ -1,5 +1,13 @@
 # Depresi-n-en-estudiantes-indios
 # PROYECTO FINAL "Depresión en Estudiantes De La India"
+## Instituto Politécnico Nacional
+### Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas UPIITA
+
+- Guerra López Oscar
+- Pérez Medellín Bruno
+- Rodríguez Frausto Ricardo Josué
+
+
 Trabajo final de Samsung Innovation Campus 2024
 
 
