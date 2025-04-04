@@ -46,4 +46,4 @@ Y para obtener hiper parametros:
 ### Pasos para clonar y ejecutar el proyecto en local.
 Asegurate de tener los datos crudos en la misma carpeta que los Notebooks
 
-Requisitos previos: Para compilar el programa debes asegurarte de tener todas las librerías mencionadas, el programa fue compilado en python 3.12.9 y el otro en Google collab 
+Requisitos previos: Para compilar el programa debes asegurarte de tener todas las librerías mencionadas, el programa fue compilado en python 3.12.9 y el otro en Google colab 
