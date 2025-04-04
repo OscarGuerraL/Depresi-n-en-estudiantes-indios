@@ -1,5 +1,5 @@
 # Depresi-n-en-estudiantes-indios
-# PROYECTO FINAL "Depresión en Estudiantes De La India"
+# PROYECTO FINAL "Detección de depresión con técnicas de aprendizaje automático"
 ## Instituto Politécnico Nacional
 ### Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas UPIITA
 
